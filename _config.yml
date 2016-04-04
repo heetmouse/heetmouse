@@ -15,10 +15,10 @@ title:            Heetmouse
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          www.heetmouse.com
+website:          http://www.heetmouse.com
 #
 # 2. URL of this page
-url:              http://[your_username].github.io/
+url:              http://heetmouse.github.io/
 #
 # 3. About your kickstarter project
 project:
@@ -27,16 +27,16 @@ project:
   name:           Heetmouse
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            
+  url:            test
   #
   # URL of a cover photo of your project
   cover_image:    http://imgur.com/6LodrjQ
   #
   # Use a one-liner to describe your project
-  description:    Heetmouse is the new and revolutionary mouse that recharges only from bodyheat
+  description:    Heetmouse is the mouse that recharges only from bodyheat
 #
 # 4. Your Twitter handle
-twitter_handle:   
+twitter_handle:   Heetmouse
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 
@@ -46,4 +46,4 @@ welcome_text:     |
   This is the Heetmouse team greeting from London. <br />
   First of all, thank you for signing up to our mailing list. <br />
   Here's to tell you that our project is now live on Kickstarter,
-  and now we have to count on your support to not only back the project, but also buy it !
+  and now we have to count on your support to not only back the project, but also share the love. ♥
